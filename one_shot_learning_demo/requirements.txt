@@ -1,0 +1,17 @@
+astroid==2.3.3
+certifi==2019.11.28
+colorama==0.4.3
+isort==4.3.21
+lazy-object-proxy==1.4.3
+mccabe==0.6.1
+numpy==1.18.1
+Pillow==7.0.0
+pip==19.3.1
+pylint==2.4.4
+scipy==1.4.1
+setuptools==44.0.0.post20200106
+six==1.13.0
+typed-ast==1.4.0
+wheel==0.33.6
+wincertstore==0.2
+wrapt==1.11.2
